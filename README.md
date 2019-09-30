@@ -5,6 +5,8 @@ ________________________________________________________________________________
 ### Introduction
 This repository is a collection of Python based implementations of various fundamental Machine Learning Algorithms and Math with the motive of self-learning ML and thereby building Projects!
 
+___________________________________________________________________________________________________________________________________________
+
 ### Textbooks and Other Resources
 1. [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/)
 2. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
