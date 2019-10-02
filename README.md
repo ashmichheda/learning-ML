@@ -7,6 +7,6 @@ This repository is a collection of Python based implementations of various funda
 
 ___________________________________________________________________________________________________________________________________________
 
-### Textbooks and Other Resources
+### Textbooks and Other Resources for Reference
 1. [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/)
 2. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
